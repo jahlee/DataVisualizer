@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24ad627f-5de1-4046-8360-783bb2464d6a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WJKsprmABwLTzDgsdUl2usjqYd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="DataVisualizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataVisualizer" />
+      <module name="DataVisualizer.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DataVisualizer.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetupBackground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetupBackground" />
+      <module name="DataVisualizer.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetupColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetupColors" />
+      <module name="DataVisualizer.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="She" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="She" />
+      <module name="DataVisualizer.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SetupColors" />
+        <item itemvalue="Application.SetupBackground" />
+        <item itemvalue="Application.SetupColors" />
+        <item itemvalue="Application.DataVisualizer" />
+        <item itemvalue="Application.She" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24ad627f-5de1-4046-8360-783bb2464d6a" name="Default Changelist" comment="" />
+      <created>1578862466460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578862466460</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1360" y="25" key="#Project_Structure" timestamp="1593045269906">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state x="-1360" y="25" key="#Project_Structure/0.0.1440.900/-1920.-180.1920.1080@-1920.-180.1920.1080" timestamp="1593045269906" />
+    <state x="-1222" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593040682535">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state x="-1222" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/-1920.-180.1920.1080@-1920.-180.1920.1080" timestamp="1593040682535" />
+    <state width="1878" height="278" key="GridCell.Tab.0.bottom" timestamp="1593045332601">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="278" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-180.1920.1080@-1920.-180.1920.1080" timestamp="1593045332601" />
+    <state width="1638" height="269" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592861887012" />
+    <state width="1398" height="269" key="GridCell.Tab.0.bottom/0.23.1440.845/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1592595378941" />
+    <state width="1358" height="254" key="GridCell.Tab.0.bottom/0.23.1680.988@0.23.1680.988" timestamp="1584510525476" />
+    <state width="1878" height="269" key="GridCell.Tab.0.bottom/0.23.1680.995@0.23.1680.995" timestamp="1592861932643" />
+    <state width="1878" height="278" key="GridCell.Tab.0.center" timestamp="1593045332599">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="278" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-180.1920.1080@-1920.-180.1920.1080" timestamp="1593045332599" />
+    <state width="1638" height="269" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592861887011" />
+    <state width="1398" height="269" key="GridCell.Tab.0.center/0.23.1440.845/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1592595378940" />
+    <state width="1358" height="254" key="GridCell.Tab.0.center/0.23.1680.988@0.23.1680.988" timestamp="1584510525475" />
+    <state width="1878" height="269" key="GridCell.Tab.0.center/0.23.1680.995@0.23.1680.995" timestamp="1592861932642" />
+    <state width="1878" height="278" key="GridCell.Tab.0.left" timestamp="1593045332597">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="278" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-180.1920.1080@-1920.-180.1920.1080" timestamp="1593045332597" />
+    <state width="1638" height="269" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592861887010" />
+    <state width="1398" height="269" key="GridCell.Tab.0.left/0.23.1440.845/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1592595378940" />
+    <state width="1358" height="254" key="GridCell.Tab.0.left/0.23.1680.988@0.23.1680.988" timestamp="1584510525475" />
+    <state width="1878" height="269" key="GridCell.Tab.0.left/0.23.1680.995@0.23.1680.995" timestamp="1592861932641" />
+    <state width="1878" height="278" key="GridCell.Tab.0.right" timestamp="1593045332600">
+      <screen x="-1920" y="-180" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="278" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-180.1920.1080@-1920.-180.1920.1080" timestamp="1593045332600" />
+    <state width="1638" height="269" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592861887011" />
+    <state width="1398" height="269" key="GridCell.Tab.0.right/0.23.1440.845/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1592595378940" />
+    <state width="1358" height="254" key="GridCell.Tab.0.right/0.23.1680.988@0.23.1680.988" timestamp="1584510525476" />
+    <state width="1878" height="269" key="GridCell.Tab.0.right/0.23.1680.995@0.23.1680.995" timestamp="1592861932642" />
+    <state width="1638" height="335" key="GridCell.Tab.1.bottom" timestamp="1592513730825">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="335" key="GridCell.Tab.1.bottom/0.23.1440.845/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1592513730825" />
+    <state width="1638" height="335" key="GridCell.Tab.1.bottom/0.23.1680.995@0.23.1680.995" timestamp="1592505431513" />
+    <state width="1638" height="335" key="GridCell.Tab.1.center" timestamp="1592513730824">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="335" key="GridCell.Tab.1.center/0.23.1440.845/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1592513730824" />
+    <state width="1638" height="335" key="GridCell.Tab.1.center/0.23.1680.995@0.23.1680.995" timestamp="1592505431512" />
+    <state width="1638" height="335" key="GridCell.Tab.1.left" timestamp="1592513730824">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="335" key="GridCell.Tab.1.left/0.23.1440.845/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1592513730824" />
+    <state width="1638" height="335" key="GridCell.Tab.1.left/0.23.1680.995@0.23.1680.995" timestamp="1592505431512" />
+    <state width="1638" height="335" key="GridCell.Tab.1.right" timestamp="1592513730825">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1638" height="335" key="GridCell.Tab.1.right/0.23.1440.845/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1592513730825" />
+    <state width="1638" height="335" key="GridCell.Tab.1.right/0.23.1680.995@0.23.1680.995" timestamp="1592505431512" />
+    <state x="445" y="297" key="com.intellij.ide.util.TipDialog" timestamp="1593040024941">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="-1327" y="176" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1920.-180.1920.1080@-1920.-180.1920.1080" timestamp="1592852412171" />
+    <state x="445" y="297" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1920.-180.1920.1080@0.0.1440.900" timestamp="1593040024941" />
+    <state x="445" y="302" key="com.intellij.ide.util.TipDialog/0.23.1440.845/-1920.-157.1920.1057@0.23.1440.845" timestamp="1591844300093" />
+    <state x="519" y="349" key="com.intellij.ide.util.TipDialog/0.23.1680.988@0.23.1680.988" timestamp="1584419458503" />
+    <state x="519" y="351" key="com.intellij.ide.util.TipDialog/0.23.1680.995@0.23.1680.995" timestamp="1592582213966" />
+    <state x="578" y="294" key="extract.method.dialog" timestamp="1592508196133">
+      <screen x="0" y="23" width="1680" height="995" />
+    </state>
+    <state x="578" y="294" key="extract.method.dialog/0.23.1680.995@0.23.1680.995" timestamp="1592508196133" />
+    <state x="638" y="254" width="683" height="486" key="find.popup" timestamp="1591822812165">
+      <screen x="0" y="23" width="1680" height="995" />
+    </state>
+    <state x="638" y="254" width="683" height="486" key="find.popup/0.23.1680.995@0.23.1680.995" timestamp="1591822812165" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DataVisualizer$DataVisualizer.ic" NAME="DataVisualizer Coverage Results" MODIFIED="1591822767620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
