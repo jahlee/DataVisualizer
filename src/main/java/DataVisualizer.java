@@ -232,11 +232,11 @@ public class DataVisualizer extends JPanel {
         g.drawLine(vertMiddle - (getFontMetrics(getFont()).stringWidth("Leaderboards") / 2), 32, vertMiddle + (getFontMetrics(getFont()).stringWidth("Leaderboards") / 2), 32);
 
         g.setColor(data1Color);
-        g.drawString("Dyle: " + data.get(6).get(5), leftEdge + 25, horizMiddle + 30);
+        g.drawString("Dyle: " + data.get(12).get(5), leftEdge + 25, horizMiddle + 30);
         g.setColor(data2Color);
-        g.drawString("Hyun: " + data.get(6).get(6), leftEdge + 115, horizMiddle + 30);
+        g.drawString("Hyun: " + data.get(12).get(6), leftEdge + 115, horizMiddle + 30);
         g.setColor(data3Color);
-        g.drawString("Josh: " + data.get(6).get(7), leftEdge + 205, horizMiddle + 30);
+        g.drawString("Josh: " + data.get(12).get(7), leftEdge + 205, horizMiddle + 30);
     }
 
     /**
