@@ -73,10 +73,11 @@ public class DataVisualizer extends JPanel {
         // yDistances will be the NUMBER OF PIXELS between each interval
         // this.heightIntervals will be the VALUE OF EACH INTERVAL
         // inputting max between 3 totals to find what the highest y value should be
+        // data.get(12) is the row that contains the TOTAL of each person's data
         float yDistances = setHeightIntervals(
-                Math.max(Math.max(Integer.valueOf((String) data.get(6).get(5)),
-                Integer.valueOf((String) data.get(6).get(6))),
-                Integer.valueOf((String) data.get(6).get(7))));
+                Math.max(Math.max(Integer.valueOf((String) data.get(12).get(5)),
+                Integer.valueOf((String) data.get(12).get(6))),
+                Integer.valueOf((String) data.get(12).get(7))));
 
         // width is constant, so no need to change
 
